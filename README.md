@@ -2,7 +2,7 @@
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/fabiano182)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fabianoroch18)
-[![Instagram](https://img.shields.io/badge/-Twitter-blue?style=flat&labelColor=blue&logo=twitter&logoColor=white)](https://www.instagram.com/fabianor182)
+[![Instagram](https://img.shields.io/badge/-Twitter-blue?style=flat&labelColor=blue&logo=twitter&logoColor=white)](https://www.twitter.com/fabiano182)
 [![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:fabiano182@outlook.com)
 <!-- [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:fabiano.dev1@gmail.com) -->
 
@@ -16,14 +16,18 @@
 
 - 🌱 I’m currently learning Java and Golang; 
 - I've always been fascinated with programming, trying to learn as much as possible considering myself :spades: jack of all trades;
-- 💬 Ask me about anything, I am happy to help;
-- ⚡️ Fun-Fact: I have a degree in teleco engineering;
+- ⚡️ I have a degree in teleco engineering;
+- My interests are Linux, Embedded Systems and Docker;
+- Love my dog, Rock and Freedom;
+- 💬 Ask me about anything, I am happy to help.
 
 **Languages:** 
 
 [![Python](https://img.shields.io/static/v1?label=&message=Python&color=3C78A9&logo=python&logoColor=FFFFFF)](https://python.org)
 [![Node.js](https://img.shields.io/static/v1?label=&message=Node.js&color=47d147&logo=node.js&logoColor=FFFFFF)](https://nodejs.org/en/)
 [![Golang](https://img.shields.io/static/v1?label=&message=Golang&color=00acd7&logo=go&logoColor=FFFFFF)](https://golang.org/)
+[![C/C++](https://img.shields.io/static/v1?label=&message=C/Cpp&color=b13c12&logo=cpp&logoColor=FFFFFF)]()
+[![Java](https://img.shields.io/static/v1?label=&message=Java&color=b40a12&logo=java&logoColor=FFFFFF)]()
 
 **Tools:** 
 
