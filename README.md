@@ -34,12 +34,13 @@
 [![Tersorflow](https://img.shields.io/static/v1?label=&message=Tensorflow&color=ff7c00&logo=tensorflow&logoColor=FFFFFF)](tesorflow.org)
 [![Ansible](https://img.shields.io/static/v1?label=&message=Ansible&color=FFFFFF&logo=ansible&logoColor=000000)](https://ansible.com)
 [![Docker](https://img.shields.io/static/v1?label=&message=Docker&color=3C78A9&logo=docker&logoColor=FFFFFF)](https://www.docker.com/)
-[![Kubernetes](https://img.shields.io/static/v1?label=&message=Kubernetes&color=326ce5&logo=kubernetes&logoColor=FFFFFF)](https://kubernets.io)]
+[![Kubernetes](https://img.shields.io/static/v1?label=&message=Kubernetes&color=326ce5&logo=kubernetes&logoColor=FFFFFF)](https://kubernets.io)
 [![Portainer.io](https://img.shields.io/static/v1?label=&message=Portainer.io&color=13bef9&logo=portainer&logoColor=FFFFFF)](https://portainer.io)
 [![VSCode](https://img.shields.io/static/v1?label=&message=VSCode&color=22a5f1&logo=visualstudiocode&logoColor=FFFFFF)](https://code.visualstudio.com/)
 
 **Operational Systems:** 
 
-[![Debian](https://img.shields.io/static/v1?label=&message=Debian&color=4F4F4F&logo=debian&logoColor=FF0000)](debia.org)
-[![ArchLinux](https://img.shields.io/static/v1?label=&message=Arch%20Linux&color=FFFFFF&logo=archlinux&logoColor=1793d0)](archlinux.org)
+[![ArchLinux](https://img.shields.io/static/v1?label=&message=Arch%20Linux&color=FFFFFF&logo=archlinux&logoColor=1793d0)](https://archlinux.org)
+[![Debian](https://img.shields.io/static/v1?label=&message=Debian&color=4F4F4F&logo=debian&logoColor=FF0000)](https://debian.org)
+[![Fedora](https://img.shields.io/static/v1?label=&message=Fedora&color=1795d0&logo=fedora&logoColor=FFFFFF)]()
 [![Windows](https://img.shields.io/static/v1?label=&message=Windows&color=000000&logo=windows&logoColor=FFFFFF)](microsoft.com/windows)
