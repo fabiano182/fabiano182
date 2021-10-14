@@ -37,5 +37,6 @@
 
 **Operational Systems:** 
 
-[![Ubuntu](https://img.shields.io/static/v1?label=&message=Ubuntu&color=b43c12&logo=ubuntu&logoColor=FFFFFF)](ubuntu.com)
+[![Debian](https://img.shields.io/static/v1?label=&message=Debian&color=4F4F4F&logo=debian&logoColor=FF0000)](debia.org)
+[![ArchLinux](https://img.shields.io/static/v1?label=&message=Arch%20Linux&color=FFFFFF&logo=archlinux&logoColor=1793d0)](archlinux.org)
 [![Windows](https://img.shields.io/static/v1?label=&message=Windows&color=000000&logo=windows&logoColor=FFFFFF)](microsoft.com/windows)
