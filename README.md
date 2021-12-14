@@ -27,7 +27,7 @@
 [![Node.js](https://img.shields.io/static/v1?label=&message=Node.js&color=47d147&logo=node.js&logoColor=FFFFFF)](https://nodejs.org/en/)
 [![Golang](https://img.shields.io/static/v1?label=&message=Golang&color=00acd7&logo=go&logoColor=FFFFFF)](https://golang.org/)
 [![C/C++](https://img.shields.io/static/v1?label=&message=C/Cpp&color=b13c12&logo=cpp&logoColor=FFFFFF)]()
-[![Java](https://img.shields.io/static/v1?label=&message=Java&color=b40a12&logo=java&logoColor=FFFFFF)]()
+<!--[![Java](https://img.shields.io/static/v1?label=&message=Java&color=b40a12&logo=java&logoColor=FFFFFF)]()-->
 
 **Tools:** 
 
