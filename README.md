@@ -14,9 +14,9 @@
 <!-- Any image aligned to the right. Beware the width -->
 <!-- <img width="50%" height=50% align="right" alt="Github" src="https://i.pinimg.com/736x/82/93/9a/82939a6efd0f8652ef311ed84363b3fa.jpg" /> -->
 
-- 🌱 I’m currently learning Java and Golang; 
+- I’m currently learning Golang; 
 - I've always been fascinated with programming, trying to learn as much as possible considering myself :spades: jack of all trades;
-- ⚡️ I have a degree in teleco engineering;
+- I have a degree in 📡 Teleco Engineering 📡;
 - My interests are Linux, Embedded Systems and Docker;
 - Love my dog, Rock and Freedom;
 - 💬 Ask me about anything, I am happy to help.
@@ -40,7 +40,7 @@
 
 **Operational Systems:** 
 
-#[![ArchLinux](https://img.shields.io/static/v1?label=&message=Arch%20Linux&color=FFFFFF&logo=archlinux&logoColor=1793d0)](https://archlinux.org)
-#[![Debian](https://img.shields.io/static/v1?label=&message=Debian&color=4F4F4F&logo=debian&logoColor=FF0000)](https://debian.org)
+<!--[![ArchLinux](https://img.shields.io/static/v1?label=&message=Arch%20Linux&color=FFFFFF&logo=archlinux&logoColor=1793d0)](https://archlinux.org)
+[![Debian](https://img.shields.io/static/v1?label=&message=Debian&color=4F4F4F&logo=debian&logoColor=FF0000)](https://debian.org)-->
 [![Fedora](https://img.shields.io/static/v1?label=&message=Fedora&color=1795d0&logo=fedora&logoColor=FFFFFF)]()
 [![Windows](https://img.shields.io/static/v1?label=&message=Windows&color=000000&logo=windows&logoColor=FFFFFF)](microsoft.com/windows)
