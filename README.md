@@ -40,7 +40,7 @@
 
 **Operational Systems:** 
 
-[![ArchLinux](https://img.shields.io/static/v1?label=&message=Arch%20Linux&color=FFFFFF&logo=archlinux&logoColor=1793d0)](https://archlinux.org)
-[![Debian](https://img.shields.io/static/v1?label=&message=Debian&color=4F4F4F&logo=debian&logoColor=FF0000)](https://debian.org)
+#[![ArchLinux](https://img.shields.io/static/v1?label=&message=Arch%20Linux&color=FFFFFF&logo=archlinux&logoColor=1793d0)](https://archlinux.org)
+#[![Debian](https://img.shields.io/static/v1?label=&message=Debian&color=4F4F4F&logo=debian&logoColor=FF0000)](https://debian.org)
 [![Fedora](https://img.shields.io/static/v1?label=&message=Fedora&color=1795d0&logo=fedora&logoColor=FFFFFF)]()
 [![Windows](https://img.shields.io/static/v1?label=&message=Windows&color=000000&logo=windows&logoColor=FFFFFF)](microsoft.com/windows)
