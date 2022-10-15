@@ -21,12 +21,13 @@
 - Love my dog, Rock and Freedom;
 - 💬 Ask me about anything, I am happy to help.
 
-**Languages:** 
-[![Rust]](https://img.shields.io/static/v1?label=&message=Rust&color=000000&logo=rust&logoColor=FFFFFF)(https://www.rust-lang.org/)
+**Languages:**
+
+[![Rust](https://img.shields.io/static/v1?label=&message=Rust&color=b13c00&logo=rust&logoColor=FFFFFF)](https://www.rust-lang.org/)
 [![Python](https://img.shields.io/static/v1?label=&message=Python&color=3C78A9&logo=python&logoColor=FFFFFF)](https://python.org)
 [![Node.js](https://img.shields.io/static/v1?label=&message=Node.js&color=47d147&logo=node.js&logoColor=FFFFFF)](https://nodejs.org/en/)
 [![Golang](https://img.shields.io/static/v1?label=&message=Golang&color=00acd7&logo=go&logoColor=FFFFFF)](https://golang.org/)
-[![C/C++](https://img.shields.io/static/v1?label=&message=C/Cpp&color=b13c12&logo=cpp&logoColor=FFFFFF)]()
+[![Cpp](https://img.shields.io/static/v1?label=&message=C%2b%2b&color=AA0000&logo=cplusplus&logoColor=FFFFFF)](https://cplusplus.com/)
 <!--[![Java](https://img.shields.io/static/v1?label=&message=Java&color=b40a12&logo=java&logoColor=FFFFFF)]()-->
 
 **Tools:** 
@@ -42,5 +43,5 @@
 
 <!--[![ArchLinux](https://img.shields.io/static/v1?label=&message=Arch%20Linux&color=FFFFFF&logo=archlinux&logoColor=1793d0)](https://archlinux.org)
 [![Debian](https://img.shields.io/static/v1?label=&message=Debian&color=4F4F4F&logo=debian&logoColor=FF0000)](https://debian.org)-->
-[![Fedora](https://img.shields.io/static/v1?label=&message=Fedora&color=1795d0&logo=redhat&logoColor=FFFFFF)](https://getfedora.org/)
+[![Fedora](https://img.shields.io/static/v1?label=&message=Fedora&color=1795d0&logo=fedora&logoColor=FFFFFF)](https://getfedora.org/)
 [![Windows](https://img.shields.io/static/v1?label=&message=Windows&color=000000&logo=windows&logoColor=FFFFFF)](microsoft.com/windows)
