@@ -14,7 +14,7 @@
 <!-- Any image aligned to the right. Beware the width -->
 <!-- <img width="50%" height=50% align="right" alt="Github" src="https://i.pinimg.com/736x/82/93/9a/82939a6efd0f8652ef311ed84363b3fa.jpg" /> -->
 
-- I’m currently learning Golang; 
+- I’m currently learning Rust; 
 - I've always been fascinated with programming, trying to learn as much as possible considering myself :spades: jack of all trades;
 - I have a degree in 📡 Teleco Engineering 📡;
 - My interests are Linux, Embedded Systems and Docker;
@@ -22,7 +22,7 @@
 - 💬 Ask me about anything, I am happy to help.
 
 **Languages:** 
-
+[![Rust]](https://img.shields.io/static/v1?label=&message=Rust&color=000000&logo=rust&logoColor=FFFFFF)(https://www.rust-lang.org/)
 [![Python](https://img.shields.io/static/v1?label=&message=Python&color=3C78A9&logo=python&logoColor=FFFFFF)](https://python.org)
 [![Node.js](https://img.shields.io/static/v1?label=&message=Node.js&color=47d147&logo=node.js&logoColor=FFFFFF)](https://nodejs.org/en/)
 [![Golang](https://img.shields.io/static/v1?label=&message=Golang&color=00acd7&logo=go&logoColor=FFFFFF)](https://golang.org/)
