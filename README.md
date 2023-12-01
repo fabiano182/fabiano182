@@ -1,4 +1,4 @@
-## Hi, I'm Fabiano Rocha, a Backend Developer and Engineer from Brazil.
+## Hi, I'm Fabiano Rocha, a DevOps Engineer from Brazil.
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/fabiano182)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fabiano182)
@@ -14,25 +14,23 @@
 <!-- Any image aligned to the right. Beware the width -->
 <!-- <img width="50%" height=50% align="right" alt="Github" src="https://i.pinimg.com/736x/82/93/9a/82939a6efd0f8652ef311ed84363b3fa.jpg" /> -->
 
-- I’m currently learning Rust; 
+- I’m currently learning Go; 
 - I've always been fascinated with programming, trying to learn as much as possible considering myself :spades: jack of all trades;
 - I have a degree in 📡 Teleco Engineering 📡;
-- My interests are Linux, Embedded Systems and Docker;
+- My interests are Linux, Docker and Kubernetes;
 - Love my dog, Rock and Freedom;
 - 💬 Ask me about anything, I am happy to help.
 
 **Languages:**
 
-[![Rust](https://img.shields.io/static/v1?label=&message=Rust&color=b13c00&logo=rust&logoColor=FFFFFF)](https://www.rust-lang.org/)
+<!--[![Rust](https://img.shields.io/static/v1?label=&message=Rust&color=b13c00&logo=rust&logoColor=FFFFFF)](https://www.rust-lang.org/)-->
+[![Golang](https://img.shields.io/static/v1?label=&message=Golang&color=00acd7&logo=go&logoColor=FFFFFF)](https://golang.org/)
 [![Python](https://img.shields.io/static/v1?label=&message=Python&color=3C78A9&logo=python&logoColor=FFFFFF)](https://python.org)
 [![Node.js](https://img.shields.io/static/v1?label=&message=Node.js&color=47d147&logo=node.js&logoColor=FFFFFF)](https://nodejs.org/en/)
-[![Golang](https://img.shields.io/static/v1?label=&message=Golang&color=00acd7&logo=go&logoColor=FFFFFF)](https://golang.org/)
-[![Cpp](https://img.shields.io/static/v1?label=&message=C%2b%2b&color=AA0000&logo=cplusplus&logoColor=FFFFFF)](https://cplusplus.com/)
-<!--[![Java](https://img.shields.io/static/v1?label=&message=Java&color=b40a12&logo=java&logoColor=FFFFFF)]()-->
+<!--[![Cpp](https://img.shields.io/static/v1?label=&message=C%2b%2b&color=AA0000&logo=cplusplus&logoColor=FFFFFF)](https://cplusplus.com/)-->
 
 **Tools:** 
 
-[![Tersorflow](https://img.shields.io/static/v1?label=&message=Tensorflow&color=ff7c00&logo=tensorflow&logoColor=FFFFFF)](tesorflow.org)
 [![Ansible](https://img.shields.io/static/v1?label=&message=Ansible&color=FFFFFF&logo=ansible&logoColor=000000)](https://ansible.com)
 [![Docker](https://img.shields.io/static/v1?label=&message=Docker&color=3C78A9&logo=docker&logoColor=FFFFFF)](https://www.docker.com/)
 [![Kubernetes](https://img.shields.io/static/v1?label=&message=Kubernetes&color=326ce5&logo=kubernetes&logoColor=FFFFFF)](https://kubernets.io)
