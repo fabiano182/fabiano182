@@ -1,4 +1,4 @@
-## Hi, I'm Fabiano Rocha, a DevOps Engineer from Brazil.
+## Hi, I'm Fabiano Rocha, a DevSecOps Engineer from Brazil.
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/fabiano182)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fabiano182)
@@ -27,7 +27,7 @@
 [![Golang](https://img.shields.io/static/v1?label=&message=Golang&color=00acd7&logo=go&logoColor=FFFFFF)](https://golang.org/)
 [![Python](https://img.shields.io/static/v1?label=&message=Python&color=3C78A9&logo=python&logoColor=FFFFFF)](https://python.org)
 [![Node.js](https://img.shields.io/static/v1?label=&message=Node.js&color=47d147&logo=node.js&logoColor=FFFFFF)](https://nodejs.org/en/)
-<!--[![Cpp](https://img.shields.io/static/v1?label=&message=C%2b%2b&color=AA0000&logo=cplusplus&logoColor=FFFFFF)](https://cplusplus.com/)-->
+[![Cpp](https://img.shields.io/static/v1?label=&message=C%2b%2b&color=AA0000&logo=cplusplus&logoColor=FFFFFF)](https://cplusplus.com/)
 
 **Tools:** 
 
@@ -39,7 +39,7 @@
 
 **Operational Systems:** 
 
-<!--[![ArchLinux](https://img.shields.io/static/v1?label=&message=Arch%20Linux&color=FFFFFF&logo=archlinux&logoColor=1793d0)](https://archlinux.org)
-[![Debian](https://img.shields.io/static/v1?label=&message=Debian&color=4F4F4F&logo=debian&logoColor=FF0000)](https://debian.org)-->
+<!--[![ArchLinux](https://img.shields.io/static/v1?label=&message=Arch%20Linux&color=FFFFFF&logo=archlinux&logoColor=1793d0)](https://archlinux.org)-->
+[![Debian](https://img.shields.io/static/v1?label=&message=Debian&color=4F4F4F&logo=debian&logoColor=FF0000)](https://debian.org)
 [![Fedora](https://img.shields.io/static/v1?label=&message=Fedora&color=1795d0&logo=fedora&logoColor=FFFFFF)](https://getfedora.org/)
 [![Windows](https://img.shields.io/static/v1?label=&message=Windows&color=000000&logo=windows&logoColor=FFFFFF)](microsoft.com/windows)
